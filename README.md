@@ -1,5 +1,4 @@
 # Amazon Clone
-
 A fully responsive Amazon-inspired e-commerce website built using **HTML and CSS**. This project replicates the core user interface of Amazon, including a modern homepage, responsive navigation bar, product sections, search functionality, shopping cart interface, and footer. The main goal of this project is to practice front-end web development by recreating a real-world e-commerce website with clean code and a responsive design.
 
 # Features
